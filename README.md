@@ -1,3 +1,3 @@
 # ping
 
-Run ping API service.
+Runs ping API service.
